@@ -33,6 +33,13 @@ font-size: 20px; color: #fff;
   background-color: #fff;
   text-align: center;
   padding: 25px 50px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Poiret One', cursive;
 }
-.textstyle1 {font-family:Arial;font-weight:normal;font-style:normal;font-size:10px;text-decoration:none;color:#888888;}
+.textstyle1 
+{  font-family:Arial;
+   font-weight:normal;
+   font-style:normal;
+   font-size:10px;
+   text-decoration:none;
+   color:#888888;
+ }
