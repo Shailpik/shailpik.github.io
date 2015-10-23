@@ -29,9 +29,10 @@ color: #fff;font-size: 48px;  font-family: 'Raleway', sans-serif; font-weight: b
 font-size: 20px; color: #fff;
 }
 .about 
-{ background-color: #fff;
+{ margin-top:200px;
+  background-color: #fff;
   text-align: center;
-   padding: 25px 50px;
-   font-family: 'Raleway', sans-serif;
+  padding: 25px 50px;
+  font-family: 'Raleway', sans-serif;
 }
 .textstyle1 {font-family:Arial;font-weight:normal;font-style:normal;font-size:10px;text-decoration:none;color:#888888;}
